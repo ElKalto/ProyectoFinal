@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469381568099",
+    "project_id": "eventvault01",
+    "storage_bucket": "eventvault01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469381568099:android:c63a628024fbb639410a56",
+        "android_client_info": {
+          "package_name": "com.example.eventvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2jRfzztirCgfb6ro-liGEZLUszk_b28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
